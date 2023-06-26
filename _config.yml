@@ -1,7 +1,7 @@
 title: Eric Li # your name (or website title) here
 logo: "/images/profile_pic2.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Statistics and Data Science Student at the 
+  Statistics and Data Science Student at The 
   University of Maryland - College Park
   <br><br>
   <a href="https://www.linkedin.com/in/eric-li-574626203/">LinkedIn Profile</a> 
@@ -9,4 +9,4 @@ description: > # your text below (remove <br> elements if you don't need line br
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: G-M8ZDS4FQ21 # your Google Analytics tracking ID here
