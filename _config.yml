@@ -4,11 +4,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   Statistics and Data Science Student at the 
   University of Maryland - College Park
   <br><br>
-  About Me
+  <a href="/about_me.md">About Me</a>
   <br><br>
   <a href="/EricLi_Resume_Final.pdf">CV</a>
   <br><br>
-  <a href="https://www.linkedin.com/in/eric-li-574626203/">LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/eric-li-574626203/">LinkedIn</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
